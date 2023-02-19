@@ -38,6 +38,9 @@ pip install spacy
 # import spacy(ony after installing spacy)
 import spacy
 
+# Downnload the simple English model
+python3 -m spacy download en_core_web_sm
+
 # load the english model
 nlp = spacy.load('en_core_web_sm')
 

@@ -13,6 +13,8 @@ import spacy
 # a package installer for Python. We can execute the following command to install spaCy:
 
 # pip install spacy
+# download the  simple english model by running this command in your commanf prompt or terminal:
+# python3 -m spacy download en_core_web_sm
 
 # In this example, we are downloading the en_core_web_sm model, which is a small English language model that includes vocabulary, syntax, and entities.
 
