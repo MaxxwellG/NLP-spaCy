@@ -92,5 +92,10 @@ print([(token, token.orth_, token.orth) for token in doc])
  # Contributing 
  Contributions are welcome!
 
+# Authors
+Maxime HT
+# Version History
+ - initial release
  # License
  Distributed under the GNU license. see 'LICENSE'  for more information.
+
