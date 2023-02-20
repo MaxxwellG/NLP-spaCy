@@ -95,7 +95,13 @@ print([(token, token.orth_, token.orth) for token in doc])
 # Authors
 Maxime HT
 # Version History
- - initial release
+
+    0.2
+        Various bug fixes and optimizations
+        See commit change or See release history
+    0.1
+        Initial Release
+
  # License
  Distributed under the GNU license. see 'LICENSE'  for more information.
 
